@@ -1,0 +1,24 @@
+{
+  "name": "simpro-cypress-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelle2014/simPro-cypress-assessment.git"
+  },
+  "author": "Michelle Jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michelle2014/simPro-cypress-assessment/issues"
+  },
+  "homepage": "https://github.com/michelle2014/simPro-cypress-assessment#readme",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}

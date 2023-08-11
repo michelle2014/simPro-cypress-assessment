@@ -1,0 +1,11 @@
+# dependencies
+.env
+.env.dev
+.env.uat
+/cypress/downloads
+/cypress/screenshots
+/cypress/videos
+/downloads
+/node_modules
+cypress/report
+xunit.xml
