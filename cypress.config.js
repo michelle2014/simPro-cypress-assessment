@@ -12,4 +12,10 @@ module.exports = defineConfig({
     },
     specPattern: "**/*.feature",
   },
+  reporter: "junit",
+  reporterOptions: {
+    mochaFile: "cypress/report/report-[hash].xml",
+
+    toConsole: true,
+  },
 });

@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/michelle2014/simPro-cypress-assessment#readme",
   "devDependencies": {
-    "cypress": "^12.17.3"
+    "cypress": "^12.17.3",
+    "cypress-junit-reporter": "^1.3.1"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
