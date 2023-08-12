@@ -20,5 +20,11 @@
   "homepage": "https://github.com/michelle2014/simPro-cypress-assessment#readme",
   "devDependencies": {
     "cypress": "^12.17.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
