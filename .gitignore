@@ -9,3 +9,6 @@
 /node_modules
 cypress/report
 xunit.xml
+
+# mac
+.DS_Store
